@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support,accuracy
+chris evans,0.75,0.75,0.75,4.0,0.75
+chris hemsworth,1.0,0.75,0.8571428571428571,4.0,0.75
+chris pratt,0.8,1.0,0.8888888888888888,4.0,1.0
+christian bale,0.6666666666666666,1.0,0.8,4.0,1.0
+cristiano ronaldo,1.0,0.75,0.8571428571428571,4.0,0.75
+danielle panabaker,1.0,1.0,1.0,4.0,1.0
+dominic purcell,1.0,0.75,0.8571428571428571,4.0,0.75
+dwayne johnson,1.0,1.0,1.0,4.0,1.0
+eliza taylor,1.0,1.0,1.0,4.0,1.0
+elizabeth lail,1.0,1.0,1.0,4.0,1.0
+accuracy,0.9,0.9,0.9,0.9,0.0
+macro avg,0.9216666666666666,0.9,0.901031746031746,40.0,0.0
+weighted avg,0.9216666666666666,0.9,0.901031746031746,40.0,0.0
